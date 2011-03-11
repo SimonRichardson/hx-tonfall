@@ -1,0 +1,30 @@
+-swf9 bin/DemoToneMatrix.swf
+-swf-version 10
+-main DemoToneMatrix
+-cp demo
+-cp src
+-swf-header 600:600:60:1d1d1d
+
+--next
+-swf9 bin/DemoMetronome.swf
+-swf-version 10
+-main DemoMetronome
+-cp demo
+-cp src
+-swf-header 600:600:60:1d1d1d
+
+--next
+-swf9 bin/DemoTheremin.swf
+-swf-version 10
+-main DemoTheremin
+-cp demo
+-cp src
+-swf-header 600:600:60:1d1d1d
+
+--next
+-swf9 bin/DemoStereoGain.swf
+-swf-version 10
+-main DemoStereoGain
+-cp demo
+-cp src
+-swf-header 600:600:60:1d1d1d
